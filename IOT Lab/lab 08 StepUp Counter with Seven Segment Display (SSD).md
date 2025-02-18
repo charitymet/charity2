@@ -1,6 +1,7 @@
 ##Design
 ![Copy of Lab 7 A SSD (1)](https://github.com/user-attachments/assets/0399747c-1d77-4c27-a6f4-3b4e3c90d33e)
 ##Code
+```
 int segA = 2;
 int segB = 3;
 int segC = 4;
@@ -67,3 +68,4 @@ void digit(int a, int b, int c, int d, int e, int f, int g) {
   digitalWrite(segF, f);
   digitalWrite(segG, g);
 }
+```
