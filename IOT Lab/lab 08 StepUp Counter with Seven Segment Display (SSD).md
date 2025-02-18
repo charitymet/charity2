@@ -36,7 +36,7 @@ void displayDigit(int num) {
       digit(1, 1, 1, 1, 0, 0, 1);  // Segments ABCDG
       break;
     case 4:
-      digit(0, 1, 1, 1, 0, 1, 0);  // Segments BCFG
+     digit(0, 1, 1, 0, 0, 1, 1);  // Segments BCFG
       break;
     case 5:
       digit(1, 0, 1, 1, 0, 1, 1);  // Segments ACDFG
